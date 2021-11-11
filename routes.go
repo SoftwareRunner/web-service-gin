@@ -1,5 +1,5 @@
 package main
-//
-//func initializeRoutes() {
-//	router.GET("/", showIndexPage)
-//}
+
+func initializeRoutes() {
+	router.GET("/", showIndexPage)
+}
